@@ -1,0 +1,22 @@
+{
+  "comptes": [
+    {
+      "id": "1",
+      "solde": 1500.5,
+      "dateCreation": "2025-10-30",
+      "type": "COURANT"
+    },
+    {
+      "id": "2",
+      "solde": 5000.75,
+      "dateCreation": "2025-10-29",
+      "type": "EPARGNE"
+    },
+    {
+      "id": "8b83",
+      "solde": 20,
+      "dateCreation": "2025-10-31",
+      "type": "COURANT"
+    }
+  ]
+}
